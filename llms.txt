@@ -1,0 +1,31 @@
+# Ziyi Zhou (周子易) — Portfolio & Academic Profile
+
+- Website: https://m-ethereal.github.io/
+- Email: mailto:ziyizhou@hotmail.com
+- GitHub: https://github.com/M-Ethereal
+- Google Scholar: https://scholar.google.com/citations?user=N0bySm4AAAAJ&hl=zh-CN
+- Home Base & Future Career Location: Beijing, China (家在北京，未来长期工作地聚焦北京)
+
+## Research Focus & Academic Trajectory
+- **Current Study Focus**: Chip Architecture Design & IC Design (Ph.D. Student in Electronic & Computer Engineering at HKUST, advised by Prof. Yuan Xie).
+- **Core Research Interests**: Embodied AI Algorithms (具身智能算法), Large Language Model Interpretability (大模型可解释性).
+- **Education**:
+  1. The Hong Kong University of Science and Technology (HKUST) — Ph.D. in Electronic & Computer Engineering (Advisor: Prof. Yuan Xie)
+  2. Dartmouth College — Master of Science (M.S.)
+  3. Southeast University (SEU) — B.Eng. in Computer Science & Engineering
+
+## Engineering & Research Experience
+- **SiOrigin (紫荆芯界, Beijing Site, Pre-Ph.D.)**: AI Infra Engineer — Plugin-based backend adaptation of the `vLLM` LLM inference engine for custom self-developed AI hardware, model architecture & operator composition analysis, and end-to-end profiling / compute-vs-memory bottleneck diagnosis.
+- **RadioStar Inc.**: Full-Stack Software Engineer — React, TypeScript, PWA, Socket.IO real-time messaging, AWS S3/EC2, GCP Firebase Serverless Functions, PostgreSQL.
+- **Dartmouth College HCI Lab**: Solo Developer of *MusicPT* — Locked 30 FPS on-device MoveNet pose tracking & Skia GPU rendering on iOS with Swift/Objective-C camera Frame Processor plugins.
+- **Dartmouth College CS Dept.**: Graduate Research Assistant — Co-authored *Efflex* (CVPR 2024, 36x faster GNN trajectory embeddings) and led first-author *GluMarker* (IEEE EMBC 2024).
+- **China Sports Digital Technology (中体数科, Beijing)**: Systems Reliability & Performance Specialist — +83% MySQL query speedup via composite indexing, -40% API latency, 99.9% SLA availability.
+- **Siemens Numerical Control**: R&D Test Automation Intern — -70% regression test cycle via Robot Framework, Selenium, and GitLab CI quality gates (42 defects caught).
+- **Southeast University CS Dept.**: Undergraduate Research Assistant — *DoseGuide* (IEEE ICPADS 2021, First Author), *DoseFormer* (Electronics 2023), and *SParking* (ACM UbiComp 2020).
+
+## Selected Publications
+1. **Efflex** (CVPR 2024) — Efficient and Flexible Pipeline for Spatio-Temporal Trajectory Graph Modeling and Representation Learning.
+2. **GluMarker** (IEEE EMBC 2024, First Author) — A Novel Predictive Modeling of Glycemic Control Through Digital Biomarkers.
+3. **DoseFormer** (Electronics 2023) — Dynamic Graph Transformer for Postoperative Pain Prediction (92.16% accuracy across 999+ surgical patients).
+4. **DoseGuide** (IEEE ICPADS 2021, First Author) — Graph-Based Dynamic Time-Aware Prediction System for Postoperative Pain.
+5. **SParking** (ACM UbiComp 2020) — Win-Win Data-Driven Contract Parking Sharing System (+35% space utilization across 14,704 IoT spaces).
